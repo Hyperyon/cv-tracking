@@ -1,0 +1,14 @@
+table{
+  border:solid 1px;
+  width: 70%;
+  margin:auto;
+  text-align:center;
+}
+
+tr:nth-child(odd){
+	background-color:#f1f1f1;
+}
+
+tr:hover, th {
+  background-color: #D0D0D0;
+}
