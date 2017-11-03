@@ -1,0 +1,7 @@
+{
+  "user": "user_name",
+  "password": "this is a secret",
+  "ftp": "ftp.mine.domain",
+  "directory": "/path/of/file/",
+  "file_name": "history.txt"
+}
