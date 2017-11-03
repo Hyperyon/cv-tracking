@@ -1,3 +1,6 @@
+![système d'exploitation](https://img.shields.io/badge/os-windows-blue.svg) 
+![python version](https://img.shields.io/badge/python-2.7-yellow.svg)
+
 CV tracking
 ===
 Application permettant d'avoir un suivi des candidatures envoyées. 
